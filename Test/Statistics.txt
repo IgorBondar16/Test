@@ -1,0 +1,54 @@
+- +
+if(+)
+getline (test)
+getline (q + a)
+
+if(-)
+getline(category)
+getline(razdel)
+getline(tests)
+
+name 
+fio 
+test : balls ochenkha
+
+-
+Categoria  c
+Razdel r
+Test  t
+4 + 4  q  list string 
+2 3 4 8  map answer
+4
+7 - 9 
+2 4 5 1
+2
+a + b
+ab c d e
+1
++
+points 10
+Test
+5 + 5
+10 14 51 55
+4
+-
+points 12
+categOrY
+RaZdEl
+Test
+KAk dela 
+norm ploho horosho
+1
+-
+points 11
+Categoria 
+Razdel
+Test
+4=3
+324
+35
+-
+point 21
+
+
+
