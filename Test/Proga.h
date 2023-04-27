@@ -19,7 +19,7 @@ public:
 	//string marks;
 
 	vector<string> category, key, tests, questions; // у класса теста будут параметры  категория ключь название теста 
-	map<string, int> answers; // Вопросы 
+	map<string, int> answers; // Вопросы
 	int points = 0; // Баллы за прохождение 
 
 	void loadTest();
