@@ -272,6 +272,7 @@ void Test::addTestToRazdel()
 }
 
 void Test::delTest()
+
 {
 	cout << "-----------=-=" << endl;
 	this->addTest();
